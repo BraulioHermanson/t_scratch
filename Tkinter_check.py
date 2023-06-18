@@ -1,7 +1,7 @@
 import tkinter as tk
 
 janela = tk.Tk()
-janela.title("Exercicio Botao")
+janela.title("checkbutton")
 
 var_promocoes = tk.IntVar()
 checkbox_promocoes = tk.Checkbutton(text = "Deseja receber e-mail promocionais?",variable = var_promocoes)
