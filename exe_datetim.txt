@@ -1,0 +1,11 @@
+Exercicio 1-
+Oferecendo desconto para cliente com base na ultima compra
+- Suponha que voce esta trabalhando para uma empresa que deseja rastrar a atividade do cliente. 
+Uma metrica que eles estão interessados é o tempo que passou desde a ultima transação do cliente.
+Se for muito tempo, eles podem oferecer um desconto para o cliente.
+Crie um script Python que mostra quanto tempo se passou desde a ultima compra do cliente(10 de maio de 2023).
+Se faz mais de 30 dias, mostre uma mensagem oferecendo um desconto para o cliente
+
+Exercicio 2
+Uma firma tem escritorios em Sao Paulo, Nova York e Toquio, crie um script que mostra a data e hora atuais nesses 3 fusos horarios.
+e traga a opçao de aberto ou fechados (9h até as 17h)
